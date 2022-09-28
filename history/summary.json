@@ -4,19 +4,19 @@
     "url": "https://www.shoprunner.com",
     "icon": "https://favicons.githubusercontent.com/www.shoprunner.com",
     "slug": "shoprunner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 83,
-    "timeWeek": 228,
-    "timeMonth": 214,
+    "timeDay": 251,
+    "timeWeek": 252,
+    "timeMonth": 220,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-09-28": 0
+      "2022-09-28": 22
     }
   }
 ]
