@@ -4,7 +4,7 @@
     "url": "https://www.shoprunner.com",
     "icon": "https://favicons.githubusercontent.com/www.shoprunner.com",
     "slug": "shoprunner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 221,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2022-10-01": 0,
       "2022-09-28": 22
     }
   }
